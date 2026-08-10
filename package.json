@@ -12,7 +12,7 @@
         "axios": "1.7.9",
         "laravel-echo": "2.0.2",
         "laravel-vite-plugin": "^1.2.0",
-        "postcss": "8.5.3",
+        "postcss": "8.5.26",
         "pusher-js": "8.4.0",
         "tailwind-scrollbar": "^3.1.0",
         "tailwindcss": "3.4.17",
